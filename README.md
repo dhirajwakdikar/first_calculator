@@ -8,7 +8,6 @@ First Calculator is a simple and modern web-based calculator developed using Fla
 - Clean and modern design
 - Responsive layout
 - Flask-powered backend
-- Real-time calculation using JavaScript Fetch API
 - Error handling for invalid expressions
 
 ## Technologies Used
@@ -17,8 +16,6 @@ First Calculator is a simple and modern web-based calculator developed using Fla
 - Flask
 - HTML5
 - CSS3
-- JavaScript
-- JSON
 
 ## Project Preview
 
@@ -31,7 +28,6 @@ This project helped me learn:
 - Flask routing and templates
 - Frontend and backend integration
 - Handling API requests with Fetch
-- Working with JSON data
 - Organizing Flask project structure
 
 ## Author
