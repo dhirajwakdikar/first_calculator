@@ -39,3 +39,7 @@ This project helped me learn:
 **Dhiraj Wakdikar**
 - Diploma in Computer Engineering
 - Government Polytechnic Gondia
+## 📸 Screenshot
+
+![First Calculator Screenshot]
+<img width="1108" height="592" alt="Screenshot 2026-06-08 085943" src="https://github.com/user-attachments/assets/1665b116-9962-42e5-a450-a4799bcfb35c" />
